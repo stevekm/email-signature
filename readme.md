@@ -1,3 +1,3 @@
 # My E-mail Signature
 
-![s](https://github.com/ryanoasis/email-signature/blob/master/preview.png)
+<img width="250" src="https://github.com/stevekm/email-signature/blob/master/preview.png">
